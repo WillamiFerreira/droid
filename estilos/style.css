@@ -46,15 +46,15 @@ nav{
 nav a {
     color:white;
     text-decoration:none;
-    margin:0px 20px 0px 0px;
-    padding:7px 5px;
+    margin:0px 15px 0px 0px;
+    padding:7px 2px;
 }
 nav a:hover{
     background-color:lightgreen;
     color: green;
     border-radius: 3px;
-    margin:0px 20px 0px 0px;
-    padding:7px 5px;
+    margin:0px 15px 0px 0px;
+    padding:7px 2px;
     transition: 0.2s;
     
 }
